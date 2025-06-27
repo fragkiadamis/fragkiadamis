@@ -65,7 +65,7 @@
   <a href="https://gitlab.com/fragkiadamis" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
   </a>
-  <a href="adamfrag@gmail.com" target="_blank">
+  <a href="mailto:adamfrag@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
